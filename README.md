@@ -1,6 +1,6 @@
 # Dog_Breed_Identifier
 
-## Overview
+
 This project aims to classify dog breeds using machine learning and deep learning techniques. The dataset used in this project was obtained from Kaggle and contains a collection of images, each labeled with the corresponding dog breed. The goal is to build a model that can accurately identify the breed of a dog from an input image.
 
 ## Dataset
